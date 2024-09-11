@@ -1,0 +1,61 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1715,         53]
+NotebookOptionsPosition[      1244,         36]
+NotebookOutlinePosition[      1639,         52]
+CellTagsIndexPosition[      1596,         49]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Geometric Algebra for Physicists", "Chapter",
+ CellChangeTimes->{{3.9350696795911617`*^9, 3.935069689839179*^9}, 
+   3.935069728384*^9},ExpressionUUID->"848967e7-bfec-4b3e-b9ad-786f7a476841"],
+
+Cell[TextData[StyleBox["This notebook accompanies reading the above titled \
+book. It will be used to walk through some of the mathematics and examples \
+included in the book, intended to give a better handle on important \
+mathematics for differential geometry and general relativity. ",
+ FontSlant->"Italic"]], "Text",
+ CellChangeTimes->{{3.935069713467391*^9, 
+  3.9350697903948727`*^9}},ExpressionUUID->"b04725f4-cba8-4d76-9285-\
+3f3027a26abb"]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{Automatic, 223}, {Automatic, 53}},
+FrontEndVersion->"12.1 for Mac OS X x86 (64-bit) (March 18, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"4ac0be38-1f2e-46a4-9564-eb580d4d4c2a"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 197, 2, 86, "Chapter",ExpressionUUID->"848967e7-bfec-4b3e-b9ad-786f7a476841"],
+Cell[780, 26, 448, 7, 102, "Text",ExpressionUUID->"b04725f4-cba8-4d76-9285-3f3027a26abb"]
+}, Open  ]]
+}
+]
+*)
+
