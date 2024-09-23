@@ -34,8 +34,8 @@ mathematics for differential geometry and general relativity. ",
 3f3027a26abb"]
 }, Open  ]]
 },
-WindowSize->{808, 911},
-WindowMargins->{{Automatic, 223}, {Automatic, 53}},
+WindowSize->{808, 847},
+WindowMargins->{{Automatic, 48}, {Automatic, 180}},
 FrontEndVersion->"12.1 for Mac OS X x86 (64-bit) (March 18, 2020)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"4ac0be38-1f2e-46a4-9564-eb580d4d4c2a"
